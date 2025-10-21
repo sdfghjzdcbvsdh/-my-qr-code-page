@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>熊猫头表情包</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0; /* 可以设置一个背景色，比如浅灰色 */
+        }
+        img {
+            max-width: 90%;
+            max-height: 90vh;
+            /* 下面这行代码可以让图片在手机上显示得更好 */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <img src="[url=https://imgbb.com/][img]https://i.ibb.co/27XF2SR7/1.png[/img][/url]
+" alt="熊猫头表情包">
+</body>
+</html>
